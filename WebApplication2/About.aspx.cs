@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
@@ -833,5 +832,4 @@ namespace WebApplication2
 
         }
     }       
->>>>>>> 87aa36cfd7d0eb22edcdab2bdcd65a09bcd5d862
 }
